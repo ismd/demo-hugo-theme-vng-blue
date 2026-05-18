@@ -5,7 +5,7 @@ layout: about
 params:
   headline: Welcome!
   email: test@test.com
-  info: "<p>I am a software engineer with a passion for GNU/Linux and open source software. I am also a bass guitar player and a football fan. I love to travel and solve CTF challenges.</p><p>I am always looking for new challenges and opportunities. Feel free to contact me by email.</p><p>Thank you for visiting my blog!</p>"
+  info: "<p>I am a software engineer with a passion for GNU/Linux and open source software. I am also a bass guitar player and a football fan. I love to travel and solve CTF challenges.</p><p>I am always looking for new challenges and opportunities. Feel free to contact me by email.</p><p>You can also visit <a href=\"https://coding-overhead.ru\">my personal site coding-overhead.ru</a> for more projects and notes.</p><p>Thank you for visiting my blog!</p>"
   tabs:
     - title: Tools
       items:
