@@ -1,7 +1,12 @@
 baseURL: "https://ismd.github.io/demo-hugo-theme-vng-blue/"
 languageCode: en-US
 title: V&G Blue Hugo Theme Demo
-theme: vng-blue
+theme:
+  - github.com/ismd/hugo-theme-vng-blue
+
+module:
+  imports:
+    - path: github.com/ismd/hugo-theme-vng-blue
 
 menus:
   main:
