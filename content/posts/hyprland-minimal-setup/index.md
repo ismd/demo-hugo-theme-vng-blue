@@ -8,7 +8,6 @@ categories = [
 ]
 tags = [
   "hyprland",
-  "wayland",
   "linux",
   "ricing"
 ]
