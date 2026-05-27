@@ -1,5 +1,5 @@
 baseURL: "https://ismd.github.io/demo-hugo-theme-vng-blue/"
-languageCode: en-US
+defaultContentLanguage: en
 title: V&G Blue Hugo Theme Demo
 theme:
   - github.com/ismd/hugo-theme-vng-blue
