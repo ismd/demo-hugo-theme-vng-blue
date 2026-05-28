@@ -1,6 +1,6 @@
 +++
 title = "Theme showcase: all markdown features"
-summary = "A reference post that demonstrates every text block the VnG Blue theme renders — headings, lists, code, tables, blockquotes, images, and inline formatting. Use it as a visual checklist when tweaking the theme."
+summary = "A reference post that demonstrates every text block the V&G Blue theme renders — headings, lists, code, tables, blockquotes, images, and inline formatting. Use it as a visual checklist when tweaking the theme."
 date = "2025-03-01T10:39:08+01:00"
 draft = false
 categories = [
@@ -13,7 +13,7 @@ tags = [
 ]
 +++
 
-This post exists for one reason: to show how every markdown element looks once the VnG Blue theme has rendered it. Each section below is a single block type. If you change typography, colors, or spacing in the theme, this is the page to open first.
+This post exists for one reason: to show how every markdown element looks once the V&G Blue theme has rendered it. Each section below is a single block type. If you change typography, colors, or spacing in the theme, this is the page to open first.
 
 ## Inline formatting
 

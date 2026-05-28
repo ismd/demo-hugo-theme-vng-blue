@@ -1,6 +1,6 @@
-# Demo website for the VnG Blue Hugo theme
+# Demo website for the V&G Blue Hugo theme
 
-See more about VnG Blue Hugo theme [here](https://github.com/ismd/hugo-theme-vng-blue).
+See more about V&G Blue Hugo theme [here](https://github.com/ismd/hugo-theme-vng-blue).
 
 Deployed demo website is [here](https://ismd.github.io/demo-hugo-theme-vng-blue/).
 

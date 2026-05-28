@@ -15,7 +15,7 @@ tags = [
 
 > ## Demo post — not real content
 >
-> **This article is a placeholder that exists to demonstrate how the [VnG Blue Hugo theme](https://github.com/ismd/hugo-theme-vng-blue) renders a typical technical write-up.** The Hyprland configuration shown below is illustrative; it is not a real personal setup and should not be copied verbatim.
+> **This article is a placeholder that exists to demonstrate how the [V&G Blue Hugo theme](https://github.com/ismd/hugo-theme-vng-blue) renders a typical technical write-up.** The Hyprland configuration shown below is illustrative; it is not a real personal setup and should not be copied verbatim.
 
 I switched to Hyprland a year ago and never went back. It is fast, it is Wayland-native, and the config file reads like a tiny DSL instead of a maze of GNOME settings. This post is the minimal version of what I actually run — no fifty-line shadow tweaks, no thirty animated workspaces, just the parts that earn their place every day.
 

@@ -39,7 +39,7 @@ params:
       level: 30  
 ---
 
-This is just a test page. It is not about me, but about the blog itself. I hope you find it interesting. The blog runs on my own Hugo theme — you can find the [VnG Blue theme](https://github.com/ismd/hugo-theme-vng-blue) and the [source code of this demo site](https://github.com/ismd/demo-hugo-theme-vng-blue) on GitHub.
+This is just a test page. It is not about me, but about the blog itself. I hope you find it interesting. The blog runs on my own Hugo theme — you can find the [V&G Blue theme](https://github.com/ismd/hugo-theme-vng-blue) and the [source code of this demo site](https://github.com/ismd/demo-hugo-theme-vng-blue) on GitHub.
 
 We need more text here to see how it looks on the page. I will add a few more sentences. I hope this will be enough. If not, I will add more text. I think this is enough.
 
