@@ -27,6 +27,7 @@ menus:
       weight: 50
 
 params:
+  author: ismd
   social:
     discord: "https://discord.com/"
     email: "mailto:"
